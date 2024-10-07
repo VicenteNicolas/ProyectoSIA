@@ -1,0 +1,6 @@
+RUT,Region,Nombre Comuna,ID Local
+13003635K,Región del Valparaíso,valparaiso,18
+151175910,Región del Valparaíso,viña del mar,13
+163105322,Región del Libertador General Bernardo O Higgins,san fernando ,28
+212661449,Región del Libertador General Bernardo O Higgins,pichilemu,33
+216813529,Región de Coquimbo,la serena ,38
